@@ -1,0 +1,15 @@
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\bin\Debug\Jx3BaiZhanCDMonitor.exe.config
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\bin\Debug\Jx3BaiZhanCDMonitor.exe
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\bin\Debug\Jx3BaiZhanCDMonitor.pdb
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.csproj.AssemblyReference.cache
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\MainWindow.g.cs
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\App.g.cs
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor_MarkupCompile.cache
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor_MarkupCompile.lref
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\MainWindow.baml
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.g.resources
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.Properties.Resources.resources
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.csproj.GenerateResource.cache
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.csproj.CoreCompileInputs.cache
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.exe
+D:\0个人用\Code\Jx3BaiZhanCDMonitor\obj\Debug\Jx3BaiZhanCDMonitor.pdb
