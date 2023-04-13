@@ -94,7 +94,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Model\BaiZhanProp.cs" />
+    <Compile Include="Model\BaiZhanBase.cs" />
     <Compile Include="Model\Character.cs" />
     <Compile Include="StaticService.cs" />
     <Page Include="MainWindow.xaml">
